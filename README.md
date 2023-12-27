@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @daniel101-pro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-daniel101-pro/daniel101-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Daniel
+Am a dynamic tech prodigy From Nigeria with a track record of innovation and leadership, A testament 
+to what African Teenagers can achieve, and A dedicated focus on SDG STEM (Sustainable 
+Development Goals in Science, Technology, Engineering, and Mathematics).
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
