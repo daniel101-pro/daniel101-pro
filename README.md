@@ -1,33 +1,17 @@
 ### Hi there 👋, Am Daniel
 ####  Am a dynamic tech prodigy with a track record of innovation and leadership
-![Am a dynamic tech prodigy with a track record of innovation and leadership](https://pbs.twimg.com/profile_banners/1575441121265827841/1703689859/1080x360)
-I'm Daniel Falodun, a tech enthusiast passionate about crafting innovative solutions. Aspiring developer 👨‍💻, problem-solver 🧩, and code ninja 🥷. I thrive on challenges and love turning coffee into code! When not glued to the screen, you'll find me exploring new technologies or tinkering with DIY tech projects. Let's connect and build something awesome! 🚀✨
+Full-Stack Web Developer (Web2 & Web3) | Game Developer | App Developer | 2D/3D Animator & Modeler | UI/UX Designer | Drone Pilot | Non-Trivial ‘25 | Change Maker | Rise Global Fellow ‘24 | TAL ‘24 | STA ‘24 | Columbia+
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS, FIGMA, ANDROID STUDIO, BLENDER, TYPESCRIPT etc
+🎓 As a passionate tech enthusiast and relentless innovator, I'm dedicated to leveraging technology to drive positive change and empower communities around the world.
 
-- 🔭 I’m currently working on ProdijyPulse 
-- 🌱 I’m currently learning Web3 
-- 👯 I’m looking to collaborate on Innovation. 
-- 🤔 I’m looking for help with Backend For ProdigyPulse 
-- 💬 Ask me about Innovation 
-- 📫 How to reach me: falodun379@gmail.com 
+💡 With a keen interest in accessibility and user-centered design, I thrive on creating solutions that make a meaningful impact in people's lives. From developing innovative software to spearheading projects that promote inclusivity, I am committed to building a more accessible and equitable world through technology.
 
+💻 As the CEO of Empower-Match, I lead a dynamic team in developing cutting-edge accessibility technologies and software solutions aimed at bridging the digital divide and empowering underserved communities. Our mission is to harness the power of technology to create opportunities for all, regardless of background or circumstance.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daniel101-pro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/101.wrxld/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://101-portfolio.netlify.app/)  
+🌍 With a global mindset and a drive for social impact, I am constantly seeking new challenges and opportunities to make a difference. Whether it's collaborating with like-minded individuals or exploring emerging technologies, I am always eager to push the boundaries of what's possible.
 
+I am dedicated to bridging accessibility gaps and empowering marginalized communities. My journey is fueled by a passion for innovation, a drive for social change, and a belief in the power of technology to transform lives.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daniel101-pro)](https://github.com/ryo-ma/github-profile-trophy)
+Dynamic Tech Prodigy with a Proven Track Record in Innovation and Leadership
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel101-pro)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel101-pro&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/daniel101-pro/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/daniel101-pro)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=daniel101-pro)  
-
+Let's connect and collaborate to create a brighter, more inclusive future together! 🌟
